@@ -1,7 +1,4 @@
-/admin_hook.php
 /config.php
-/header.php
-/footer.php
-/index_*.php
 /settings.php
 /support/*.mmdb
+/client
